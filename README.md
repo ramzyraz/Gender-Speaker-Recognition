@@ -32,9 +32,9 @@ The following describes the different processes which were used in Phase 3:
 
   2. Using Multiple Scikit-Learn Classifiers for Training and Testing the Dataset
   
-    a. [Multi-layer Perceptron] (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
-    b. [Linear Support Vector Classification] (https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
-    c. [Gaussian Naive Bayes] (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)
+   a. [Multi-layer Perceptron] (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
+   b. [Linear Support Vector Classification] (https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+   c. [Gaussian Naive Bayes] (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)
     
   3. Calculating the Accuracy Scores And Plotting the Results for each Classifier
 
