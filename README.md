@@ -32,9 +32,9 @@ The following describes the different processes which were used in Phase 3:
 
   2. Using Multiple Scikit-Learn Classifiers for Training and Testing the Dataset
   
-  a. Multi-layer Perceptron   
-  b. Linear Support Vector Classification 
-  c. Gaussian Naive Bayes 
+    a. Multi-layer Perceptron   
+    b. Linear Support Vector Classification 
+    c. Gaussian Naive Bayes 
     
   3. Calculating the Accuracy Scores And Plotting the Results for each Classifier
 
