@@ -17,11 +17,10 @@ Using Multinomial Logistic Regression for Gender Classification and Speaker Reco
 
 ---
 
-## Dataset Used
-
-
----
-
 ## Libraries Used
 
-
+- [Matplotlib](https://matplotlib.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Python Speech Features](https://pypi.org/project/python_speech_features/)
+- [SkLearn](https://scikit-learn.org/stable/)
