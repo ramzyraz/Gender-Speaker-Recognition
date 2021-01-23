@@ -18,13 +18,25 @@ The project involved using the Techniques of Machine Learning to create a Multin
 -- Gender Recognition is the task of classifying gender (using binary gender classification:male/female) of speaker using their voice. 
 -- Speaker Recognition problem was implemented in such a way as to classify the test utterance (recordingw) into one of the 𝑁 speaker classes.
 
-The following describes the different processes which were used here:
+The following describes the different processes which were used in Phase 2:
 
   1. Feature Extraction
 
   2. Implementation of the Multinomial Logistic Regression using a Softmax function for both Gender and Speech Recognition
 
   3. Calculating the Accuracy Scores And Plotting the Results
+  
+The following describes the different processes which were used in Phase 3:
+
+  1. Feature Extraction
+
+  2. Using Multiple Scikit-Learn Classifiers for Training and Testing the Dataset
+  
+    a. [Multi-layer Perceptron] (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
+    b. [Linear Support Vector Classification] (https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+    c. [Gaussian Naive Bayes] (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)
+    
+  3. Calculating the Accuracy Scores And Plotting the Results for each Classifier
 
 ---
 
