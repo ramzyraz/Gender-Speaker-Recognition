@@ -16,6 +16,7 @@ Using Multinomial Logistic Regression for Gender Classification and Speaker Reco
 
 The project involved using the Techniques of Machine Learning to create a Multinomial Logistic Classifier for Gender Classification and Speaker Recognition using speech.      
 -- Gender Recognition is the task of classifying gender (using binary gender classification:male/female) of speaker using their voice. 
+
 -- Speaker Recognition problem was implemented in such a way as to classify the test utterance (recordingw) into one of the 𝑁 speaker classes.
 
 The following describes the different processes which were used in Phase 2:
